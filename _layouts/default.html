@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+
+{% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">Digital Humanities Literacy Workshop</h1>
+      <h2 class="project-tagline">Sponsored by the Andrew W. Mellon Foundation at Carnegie Mellon University.</h2>
+        <a href="index" class="btn">Overview</a>
+        <a href="introduction" class="btn">Introduction</a>        
+        <a href="schedule" class="btn">Schedule/Logistics</a>
+        <a href="participating" class="btn">Participating</a>
+        <a href="breakouts" class="btn">Breakouts</a>
+        <a href="resources" class="btn">Resources</a>
+    </section>
+
+    <section class="main-content">
+      {{ content }}
+    </section>
+
+  </body>
+</html>
