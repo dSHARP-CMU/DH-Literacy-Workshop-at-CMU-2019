@@ -3,7 +3,7 @@ title: Digital Humanities Literacy Workshop
 permalink: index.html
 ---
 # Overview
-The 2018 Digital Humanities Literacy Workshop at Carnegie Mellon University is a 3-day course focused on providing humanities scholars with a broad overview of Digital Humanities (DH) research, introducing participants to a wide range of computational techniques and critical approaches for the humanities. After a combination of conceptual overviews and hands-on breakouts, participants should have a good sense of whether digital humanities is an area they intend to pursue more thoroughly. Participants include students, faculty, and staff from around Pittsburgh, but the primary audience is CMU humanities graduate students finishing their first year.
+The 2019 Digital Humanities Literacy Workshop at Carnegie Mellon University is a 3-day course focused on providing humanities scholars with a broad overview of Digital Humanities (DH) research, introducing participants to a wide range of computational techniques and critical approaches for the humanities. After a combination of conceptual overviews and hands-on breakouts, participants should have a good sense of whether digital humanities is an area they intend to pursue more thoroughly. Participants include students, faculty, and staff from around Pittsburgh, but the primary audience is CMU humanities graduate students finishing their first year.
 
 Scott B. Weingart, Program Director of Digital Humanities at Carnegie Mellon University, will teach the course alongside guest speakers from CMU and elsewhere.
 
