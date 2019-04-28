@@ -6,11 +6,10 @@ permalink: schedule.html
 # Logistics
 
 ## When & Where
-**Dates**: Wednesday, May 30th - Friday, June 1st, 2018
+**Dates**: Tuesday, May 28th - Thursday, May 30th, 2019
 
 **Times**: 
-- 9am-3pm on 5/30 & 5/31
-- 9am-3:45pm on 6/1.
+- 9am-3pm each day
 
 **Location**: Baker Hall, Steinberg Auditorium (Baker A53) & Breakout Rooms. The auditorium is in the basement of Baker and is a bit difficult to find, so make sure to give yourself enough time to find it.
 
@@ -31,44 +30,25 @@ Hot breakfast will be provided at 8:30am and lunch sandwiches will be provided a
 
 # Schedule 
 
-## Wednesday May 30
-- 9:00 Morning - Steinberg Auditorium (Baker A53)
-  - 8:30 Coffee & Bagels
-  - 9:00 Welcome & what is DH? (Scott B. Weingart)
-  - 9:45 Compuational Philosophy (Kevin Zollman)
-  - 10:30 Data Journalism (AmyJo Brown)
-  - 11:15 Digital Art History (Alison Langmead)
-- 12:00 Lunch (provided)
-- 1:00 Afternoon - Breakout Workshops, Must Pre-Register
-  - Research Design for Large Scale Text Analysis (Matthew Lavin, Room A53)
-  - Agent-Based Modeling and Philosophy (Kevin Zollman, Room A54)
-  - Data Visualization (Emma Slayton, Room 154A)
+## Tuesday May 28
+- 9:00am - Welcome & What Is DH - Scott
+- 9:45am - Guest lecture
+- 10:30am - Guest lecture
+- 11:15am - Guest lecture
+- Noon - lunch
+- 1pm - three parallel workshops
 
-## Thursday May 31
-- 9:00 Morning - Steinberg Auditorium (Baker A53)
-  - 8:30 Coffee & Bagels
-  - 9:00 DH in Literary Studies (Christopher Warren)
-- 10:00 Morning - Breakout Workshops, Must Pre-Register
-  - There Is No Spoon: Networks and Digital History (Zoe LeBlanc, Room A54)
-  - Research Design for Large Scale Text Analysis (Matthew Lavin, Room A53)
-  - Creative Writing with Natural Language Processing (Allison Parrish, Room A-60N)
-- 12:00 Lunch (provided)
-- 1:00 Afternoon - Breakout Workshops, Must Pre-Register 
-  - There Is No Spoon: Networks and Digital History (Zoe LeBlanc, Room A54)
-  - GIS and Mapping (Jessica Benner, Room A53)
-  - Creative Writing with Natural Language Processing (Allison Parrish, Room 154A)
+
+## Wednesday May 29
+- 9:00am - Guest lecture
+- 10am - three parallel workshops
+- Noon - lunch
+- 1pm - three parallel workshops
+
   
-## Friday June 1
-- 9:00 Morning - Steinberg Auditorium (Baker A53)
-  - 8:30 Coffee & Bagels
-  - 9:00 DH & Data (Jessica Otis)
-- 10:00 Morning - Breakout Workshops, Must Pre-Register
-  - GIS and Mapping (Jessica Benner, Room A53)
-  - Thinking Through Word Embeddings for the Humanities (Ben Schmidt, Room 154A)
-  - Distant Viewing with Deep Learning: An Introduction to Analyzing Large Corpora of Images (Lauren Tilton and Taylor Arnold, Room A-60N)
-- 12:00 Lunch (provided)
-- 1:00 Afternoon - Breakout Workshops, Must Pre-Register
-  - Data Visualization (Emma Slayton, Room A53)
-  - Thinking Through Word Embeddings for the Humanities (Ben Schmidt, Room 154A)
-  - Distant Viewing with Deep Learning: An Introduction to Analyzing Large Corpora of Images (Lauren Tilton and Taylor Arnold, Room A54)
-- 3:15 Next Steps (Baker A53)
+## Thursday May 30
+- 9:00am - Guest lecture
+- 10am - three parallel workshops
+- Noon - lunch
+- 1pm - wrap-up - Scott
+
