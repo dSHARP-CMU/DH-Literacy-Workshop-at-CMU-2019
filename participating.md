@@ -7,9 +7,9 @@ Participants include students, faculty, and staff from around Pittsburgh, but th
 Please **complete these tasks by Wednesday 5/22**:
 - Read the [introduction to the workshop](introduction).
 - Read about the hands-on [breakouts](breakouts).
-- [Register](https://goo.gl/forms/1pB26oeifC6nFIN33) for your preferred breakouts. 
+- [Register](https://docs.google.com/forms/d/e/1FAIpQLSeYPKKNnVpb_Cdov3oK5ClTysiNMH_XJSie3chibhhPKOtHMw/viewform) for your preferred breakouts. 
 - Sign up for [the slack channel](https://dh-cmu.slack.com/signup).
-- Complete [this brief assignment](https://goo.gl/forms/elqT8Dl2Acr0Fnpw1) (5-30 minutes).
+- Complete [this brief assignment](https://docs.google.com/forms/d/e/1FAIpQLSexuegqW94DKjm2fW7cY05DB53VsstfRmHK5BPftO0p-ODcVw/viewform) (5-30 minutes).
 
 ## During the Workshop
 Each day will be split into lectures, in which everyone participates together, and breakouts, in which participants will split into smaller groups to get hands-on experience in DH techniques.
