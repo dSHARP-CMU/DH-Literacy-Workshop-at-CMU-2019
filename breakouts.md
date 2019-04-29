@@ -3,11 +3,11 @@ title: Breakout Workshops
 permalink: breakouts.html
 ---
 # Breakout Sessions
-Participants will partake in five of eight possible breakout workshops, taught by instructors from CMU, Pitt, and elsewhere. **You must [register](https://goo.gl/forms/1pB26oeifC6nFIN33) for your preferred breakout sessions here by Friday 5/22**. 
+Participants will partake in five of eight possible breakout workshops, taught by instructors from CMU, Pitt, and elsewhere. **You must [register](https://docs.google.com/forms/d/e/1FAIpQLSeYPKKNnVpb_Cdov3oK5ClTysiNMH_XJSie3chibhhPKOtHMw/viewform) for your preferred breakout sessions here by Friday 5/22**. 
 
 None of the workshops require previous experience in math or programming.
 
-## Text Analysis
+## Getting Started with Machine Learning: Logistic Regression in Digital Humanities
 _Matthew Lavin, Clinical Assistant Professor of English and Director of the Digital Media Lab, University of Pittsburgh_
 
 The workshop will explore text analysis.
@@ -26,20 +26,22 @@ Are you currently involved in work that could be augmented by visualizing your d
 
 _Software requirements_: Please come to the workshop with a copy of Tableau downloaded on your laptop. You can register for a free one-year student license through this link: [https://www.tableau.com/academic/students](https://www.tableau.com/academic/students)
 
-## Network Analysis
+## Introduction to Network Analysis for Humanists
 _Elaine Frantz (Parsons), Professor of History, Kent State University_
 
-Description to be updated. The workshop will be on learning how to perfom network analysis.
+This is a simple and practical-minded workshop aimed at those with little background in DH which will seek to help you understand whether social network analysis is right for your data and for your research questions; discuss strategies for and problems with converting data into formats usable by network analysis programs; show you the fundamentals of building a network using the popular Gephi program; and walk you through an exercise in which you build and manipulate a small network. 
+
+_Software requirements_: Please come to the workshop with a copy of Gephi 9.2 installed on your laptop: [https://gephi.org/users/download/](https://gephi.org/users/download/)
 
 ## GIS and Mapping
 _Jessica Benner, Computer Science and GIS Librarian, Carnegie Mellon University_
 
 This workshop will introduce you to the use of geographic information systems (GIS). GIS are tools that allow you to explore the geographic aspects of your data. Whether you study the material culture of a particular community, the works of an eighteenth century writer, or the history of the civil rights movement, there is likely a spatial component to your data. You can add this by collecting spatial information related to your other data. Spatial information can be as coarse as countries, states, counties or zip codes, or as precise as addresses and coordinate pairs. These types of data are used in an GIS tool to help you visualize your data in a spatial context (i.e., a map). During this workshop, you will (1) learn about what a GIS is, different models for representing spatial data, the fundamental aspects of a map, (2) explore several existing DH projects that have a spatial focus or spatial components, and (3) practice determining when the use of GIS is appropriate for a project.
 
-## Introduction to R or Data Cleaning
+## *Ching!* Creating Tidy Humanities Data that Sparks Joy
 _Matthew Lincoln, Digital Humanities Developmer, Carnegie Mellon University_
 
-This workshop will either be an introduction to the programming langauge R for humanists or be on data cleaning.
+A lot of tools and tutorials out there promise to help you clean up your messy data, which is an essential step before doing any kind of network, text, spatial, or quantitative analysis or visualization. But how do we even figure out what “clean” means when it comes to complex humanities knowledge, especially when we may not yet know what kind of analysis we eventually want to do? Participants will come out of this workshop understanding how to create a data plan to capture the parts of their sources that are going to be important for their research questions, handle complex relationships and uncertainty, and format that information into tidy data that can then be reshaped as needed to drive databases, websites, analyses, and visualizations. We will combine pen & paper exercises with some introductory work in R, although the principles will apply to all kinds of programming languages and approaches.
 
 ## The Command Line 
 _John Ladd, Ph.D. Candidate in English, Washington University in St. Louis_
