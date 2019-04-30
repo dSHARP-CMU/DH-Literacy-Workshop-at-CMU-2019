@@ -7,7 +7,7 @@ Participants include students, faculty, and staff from around Pittsburgh, but th
 Please **complete these tasks by Wednesday 5/22**:
 - Read the [introduction to the workshop](introduction).
 - Read about the hands-on [breakouts](breakouts).
-- [Register](https://docs.google.com/forms/d/e/1FAIpQLSeYPKKNnVpb_Cdov3oK5ClTysiNMH_XJSie3chibhhPKOtHMw/viewform) for your preferred breakouts. 
+- [Register](https://docs.google.com/forms/d/e/1FAIpQLSdGcjJ8qR3Avx74WEIy9iukfapl8dkXBO6NG5igRaH5zOQytg/viewform) for your preferred breakouts. 
 - Sign up for [the slack channel](https://dh-cmu.slack.com/signup).
 - Complete [this brief assignment](https://docs.google.com/forms/d/e/1FAIpQLSexuegqW94DKjm2fW7cY05DB53VsstfRmHK5BPftO0p-ODcVw/viewform) (5-30 minutes).
 
