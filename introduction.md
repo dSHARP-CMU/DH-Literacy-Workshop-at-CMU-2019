@@ -12,7 +12,7 @@ DH doesn’t necessarily align with how universities normally work. Projects oft
 
 Everyone’s here to learn, including your instructors. DH is still new, and we’re figuring it out together.
 
-Before the course begins there is a [short assignment](https://goo.gl/forms/elqT8Dl2Acr0Fnpw1) to finish, and importantly, you’ll need to [register](https://docs.google.com/forms/d/e/1FAIpQLSeYPKKNnVpb_Cdov3oK5ClTysiNMH_XJSie3chibhhPKOtHMw/viewform) which hands-on breakout sessions you want to attend **by Wednesday 5/22**. Each has limited spots, and you can only take four of them, so use the [breakouts page](breakouts) to decide which you hope to attend. 
+Before the course begins there is a [short assignment](https://goo.gl/forms/elqT8Dl2Acr0Fnpw1) to finish, and importantly, you’ll need to [register](https://docs.google.com/forms/d/e/1FAIpQLSdGcjJ8qR3Avx74WEIy9iukfapl8dkXBO6NG5igRaH5zOQytg/viewform) which hands-on breakout sessions you want to attend **by Wednesday 5/22**. Each has limited spots, and you can only take four of them, so use the [breakouts page](breakouts) to decide which you hope to attend. 
 
 ## What is Digital Humanities?
 It’s easier to say what digital humanities isn’t than to say what it is. DH definitely isn’t about inventing new medicines, discovering the origins of life, or developing new programming languages. It usually isn’t about teaching online courses (that’s Technology-Enhanced Learning’s job), nor usually about discovering social laws using machine learning (that’s in the realm of Computational Social Science). It’s probably not about publishing humanities research in a blog, and it’s only occasionally about designing creative museum exhibits. 
