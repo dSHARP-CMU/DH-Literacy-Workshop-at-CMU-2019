@@ -3,7 +3,7 @@ title: Breakout Workshops
 permalink: breakouts.html
 ---
 # Breakout Sessions
-Participants will partake in five of eight possible breakout workshops, taught by instructors from CMU, Pitt, and elsewhere. **You must [register](https://docs.google.com/forms/d/e/1FAIpQLSeYPKKNnVpb_Cdov3oK5ClTysiNMH_XJSie3chibhhPKOtHMw/viewform) for your preferred breakout sessions here by Friday 5/22**. 
+Participants will partake in five of eight possible breakout workshops, taught by instructors from CMU, Pitt, and elsewhere. **You must [register](https://forms.gle/GkwaR937se4qwZRJA) for your preferred breakout sessions here by Friday 5/22**. 
 
 None of the workshops require previous experience in math or programming.
 
