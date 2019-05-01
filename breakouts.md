@@ -10,7 +10,7 @@ None of the workshops require previous experience in math or programming.
 ## Getting Started with Machine Learning: Logistic Regression in Digital Humanities
 _Matthew Lavin, Clinical Assistant Professor of English and Director of the Digital Media Lab, University of Pittsburgh_
 
-The workshop will explore text analysis.
+Some of the most exciting recent scholarship in digital humanities, and especially in the burgeoning cultural analytics subfield, have involved training a machine learning model to  categorize/classify documents into categories, in the hopes of discovering something meaningful about the underlying patterns that inform machine learning predictions. Logistic regression is a well-established machine learning method that many digital humanities or cultural analytics practitioners, including David Bamman, Hoyt Long, Richard So, and Ted Underwood, have employed. It’s especially appealing because the rules used to make predictions are transparent, and it’s relatively easy to derive a list summarizing how much predictive power each input variable has. In this workshop, participants will look closely at how machine learning research design, how logistic regression makes predictions, and how to run classification in Python. 
 
 ## Computer Simulations as a Method for Philosophy
 _Kevin Zollman, Associate Professor of Philosophy, Carnegie Mellon University_
