@@ -26,7 +26,7 @@ permalink: schedule.html
 **Slack link**: [https://dh-cmu.slack.com](https://dh-cmu.slack.com) and [https://dh-cmu.slack.com/signup](https://dh-cmu.slack.com/signup) to register.
 
 ## Eating
-Hot breakfast will be provided at 8:30am and lunch sandwiches will be provided at noon every day. Vegetarian options available. Participants are, of course, welcome to bring their own food or find meals elsewhere.
+Breakfast will be provided at 8:30am and lunch sandwiches will be provided at noon every day. Vegetarian options available. Participants are, of course, welcome to bring their own food or find meals elsewhere.
 
 # Schedule 
 
