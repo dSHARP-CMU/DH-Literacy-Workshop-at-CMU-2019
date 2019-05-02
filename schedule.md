@@ -36,19 +36,19 @@ Breakfast will be provided at 8:30am and lunch sandwiches will be provided at no
 - 10:30am - Critical Code Studies (Annette Vee) (Baker A53)
 - 11:15am - Digital Art History (Alison Langmead) (Baker A53)
 - Noon - lunch
-- 1pm - three parallel workshops (workshops and location TBA)
+- 1pm - three parallel workshops (location TBA/ Lavin - Machine Learning / Frantz - Network Analysis / Lincoln - Tidy Data)
 
 
 ## Wednesday May 29
 - 9:00am - Computational Philosophy (Kevin Zollman) (Baker A53)
-- 10am - three parallel workshops (workshops and location TBA)
+- 10am - three parallel workshops (location TBA/ Slayton - Data Visualization / Benner - GIS / Ladd - Command Line)
 - Noon - lunch
-- 1pm - three parallel workshops (workshops and location TBA)
+- 1pm - three parallel workshops (location TBA/ Slayton - Data Visualization / Benner - GIS / Zollman - Computer Simulations)
 
   
 ## Thursday May 30
 - 9:00am - DH in Literary Studies (Chris Warren) (Baker A53)
-- 10am - three parallel workshops (workshops and location TBA)
+- 10am - three parallel workshops (location TBA/ Lavin - Machine Learning / Frantz - Network Analysis )
 - Noon - lunch
 - 1pm - Wrap-up (Scott B. Weingart)
 
