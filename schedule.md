@@ -48,7 +48,7 @@ Breakfast will be provided at 8:30am and lunch sandwiches will be provided at no
   
 ## Thursday May 30
 - 9:00am - DH in Literary Studies (Chris Warren) (Baker A53)
-- 10am - three parallel workshops (location TBA/ Lavin - Machine Learning / Frantz - Network Analysis )
+- 10am - three parallel workshops (location TBA/ Lavin - Machine Learning / Frantz - Network Analysis / Lincoln - Tidy Data)
 - Noon - lunch
 - 1pm - Wrap-up (Scott B. Weingart)
 
