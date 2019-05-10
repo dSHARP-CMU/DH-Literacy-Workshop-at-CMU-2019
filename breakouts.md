@@ -51,7 +51,7 @@ This workshop will introduce you to the use of geographic information systems (G
 ## *Ching!* Creating Tidy Humanities Data that Sparks Joy
 _Matthew Lincoln, Digital Humanities Developer, Carnegie Mellon University_
 
-Tuesday May 28, 1:00 - 3:00 PM
+Tuesday May 28, 1:00 - 3:00 PM and Thursday May 30, 10:00AM - 12:00PM
 
 A lot of tools and tutorials out there promise to help you clean up your messy data, which is an essential step before doing any kind of network, text, spatial, or quantitative analysis or visualization. But how do we even figure out what “clean” means when it comes to complex humanities knowledge, especially when we may not yet know what kind of analysis we eventually want to do? Participants will come out of this workshop understanding how to create a data plan to capture the parts of their sources that are going to be important for their research questions, handle complex relationships and uncertainty, and format that information into tidy data that can then be reshaped as needed to drive databases, websites, analyses, and visualizations. We will combine pen & paper exercises with some introductory work in R, although the principles will apply to all kinds of programming languages and approaches.
 
