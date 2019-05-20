@@ -35,7 +35,7 @@ _Software requirements_: Please come to the workshop with a copy of Tableau down
 ## Introduction to Network Analysis for Humanists
 _Elaine Frantz (Parsons), Professor of History, Kent State University_
 
-Tuesday May 28, 1:00 - 3:00 PM and Thursday May 30, 10:00 AM - 12:00 PM
+Tuesday May 28, 1:00 - 3:00 PM and Wednesday May 29, 10:00 AM - 12:00 PM
 
 This is a simple and practical-minded workshop aimed at those with little background in DH which will seek to help you understand whether social network analysis is right for your data and for your research questions; discuss strategies for and problems with converting data into formats usable by network analysis programs; show you the fundamentals of building a network using the popular Gephi program; and walk you through an exercise in which you build and manipulate a small network. 
 
@@ -58,7 +58,7 @@ A lot of tools and tutorials out there promise to help you clean up your messy d
 ## Get to Know Your Computer: DH on the Command Line
 _John Ladd, Washington University in St. Louis_
 
-Wednesday May 29, 10:00 AM - 12:00 PM
+Thursday May 30, 10:00 AM - 12:00 PM
 
 Did you know there's a set of tools on your computer right now that can help you organize projects, run programs, and perform basic data and text analysis? Have you ever been asked to "install a program in the terminal" or "simply run a script" and wondered how to do that? Designed for anyone from beginners who've only pointed-and-clicked on their computers to advanced users who have a new project to organize, this workshop will introduce participants to the Command Line Interface: the "terminal" app that lets you interact with your computer through text commands. Without needing to know a programming language, we will dispel any fear of working "under the hood" of our computers, while learning how to install and run software, navigate and batch-process files, and perform a bunch of quick text-mining tasks. Participants will come away with strategies for organizing project files and a better sense of how to make their computers work for them.
 
