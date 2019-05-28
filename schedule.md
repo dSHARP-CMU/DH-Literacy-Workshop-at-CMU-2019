@@ -21,7 +21,7 @@ permalink: schedule.html
 
 ## Connecting
 
-**Internet access**: CMU-GUEST, login code `HYCY27PB`
+**Internet access**: CMU-GUEST, login code `MNQJ23WU`
 
 **Slack link**: [https://dh-cmu.slack.com](https://dh-cmu.slack.com) and [https://dh-cmu.slack.com/signup](https://dh-cmu.slack.com/signup) to register.
 
